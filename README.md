@@ -14,4 +14,4 @@ Magic是子晴自主开发的一个Hacked Client For Minecraft客户端
 导入lib包
 启动客户端
 # 其他
-关于商用等其他说明请留意 Liq
+关于商用等其他说明请留意 LICENCE
